@@ -38,5 +38,6 @@ Desarrollador e investigador en formación con enfoque analítico y bases sólid
 
 ## Actividad en GitHub
 
-![Estadísticas de GitHub de MandoD1](https://github-readme-stats.vercel.app/api?username=MandoD1&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub de MandoD1](https://github-readme-stats.vercel.app/api?username=MandoD1&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Lenguajes más usados por MandoD1](https://github-readme-stats.vercel.app/api/top-langs/?username=MandoD1&layout=compact&theme=tokyonight)
+
